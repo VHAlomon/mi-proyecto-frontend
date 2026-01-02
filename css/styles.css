@@ -38,6 +38,26 @@ body {
     text-align: center;
 }
 
+.btn {
+    padding: 12px 24px;
+    font-size: 1rem;
+    background-color: #222;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #444;
+}
+
+.message {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #222;
+}
+
 footer {
     background-color: #ddd;
     text-align: center;
